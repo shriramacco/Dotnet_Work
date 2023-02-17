@@ -1,2 +1,2 @@
 # Dotnet_Work
-This Repository For Dotnet Working 
+This Repository For Dotnet Working Samples
